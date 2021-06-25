@@ -8,3 +8,5 @@ This value is based on:
 It factors in our unique and proprietary predictions of how long a user will remain a customer. 
 This score is updated every day for all users who have a minimum of one conversion. 
 The values assigned are between 1 and 5.
+
+The "train.csv" file is the given dataset for which the XGBoost Model is used for the churn rate prediction.
